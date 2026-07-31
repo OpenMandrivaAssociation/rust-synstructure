@@ -6,8 +6,8 @@
 %global crate synstructure
 
 Name:           rust-%{crate}
-Version:        0.12.3
-Release:        2%{?dist}
+Version:        0.14.0
+Release:        1%{?dist}
 Summary:        Helper methods and macros for custom derives
 
 # Upstream license specification: MIT
